@@ -1,0 +1,45 @@
+
+  .button {
+    color:white;
+    background-color: purple;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+  }
+  /* Form.css */
+.centered-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+      
+}
+
+.card {
+    
+    color:black;
+    background-color: white;
+    margin:100px 250px 160px 250px;
+    border:2px solid black;
+
+}
+.carded {
+    
+  color:black;
+  background-color:antiquewhite;
+  margin:100px 250px 160px 250px;
+  align-items: center;
+  justify-content: center;
+  border:2px solid black;
+
+}
+.form-center {
+    margin:5px;
+    padding: 3px;
+}
+.box {
+  background-color: antiquewhite;
+}
+.square {
+  background-color: aqua;
+}
